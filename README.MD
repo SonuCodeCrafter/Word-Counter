@@ -114,16 +114,6 @@ Log Output
 
 2024-12-21 14:25:01 - INFO - Starting download: https://en.wikipedia.org/wiki/Python_(programming_language)
 
-2024-12-21 14:25:02 - INFO - Finished https://en.wikipedia.org/wiki/Python_(programming_language) with word count: 5637
-
-2024-12-21 14:25:02 - INFO - Starting download: https://en.wikipedia.org/wiki/Concurrency_(computer_science)
-
-2024-12-21 14:25:03 - INFO - Finished https://en.wikipedia.org/wiki/Concurrency_(computer_science) with word count: 4871
-
-2024-12-21 14:25:03 - INFO - Starting download: https://en.wikipedia.org/wiki/Artificial_intelligence
-
-2024-12-21 14:25:04 - INFO - Finished https://en.wikipedia.org/wiki/Artificial_intelligence with word count: 7203
-
 
 
 Error Handling
